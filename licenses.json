@@ -1,0 +1,17 @@
+[
+  {
+    "Key": "A7F2-9K21-XP33",
+    "Status": "Active",
+    "Expiry": "2026-08-31"
+  },
+  {
+    "Key": "ZQ47-LM82-BJ90",
+    "Status": "Expired",
+    "Expiry": "2025-12-31"
+  },
+  {
+    "Key": "YT88-XL32-QM52",
+    "Status": "Disabled",
+    "Expiry": "2026-03-10"
+  }
+]
